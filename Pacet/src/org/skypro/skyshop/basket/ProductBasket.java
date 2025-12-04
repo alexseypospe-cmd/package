@@ -2,7 +2,6 @@ package org.skypro.skyshop.basket;
 
 import org.skypro.skyshop.product.Product;
 
-
 public class ProductBasket {
     private final Product[] products = new Product[5];
     private int size = 0;
