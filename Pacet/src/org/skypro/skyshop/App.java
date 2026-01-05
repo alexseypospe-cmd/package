@@ -14,7 +14,7 @@ public class App {
         Product a3 = new Product("Молоко", 80);
         Product a4 = new Product("Яйца", 120);
         Product a5 = new Product("Сыр", 200);
-        Product a6 = new Product("Вода", 25); // Этот не поместится
+        Product a6 = new Product("Вода", 25);
 
         System.out.println("=== Добавление продуктов в корзину ===");
         basket.addProduct(a1);
